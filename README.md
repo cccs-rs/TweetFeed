@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2023-07-18 23:50:42 (UTC)</th>
+        <th colspan=4>2023-07-19 00:10:32 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 126 | 521 | 5441 | 148261 |
-| **:globe_with_meridians: Domains** | 10 | 38 | 374 | 29993 |
-| **:triangular_flag_on_post: IPs** | 67 | 404 | 3405 | 46434 |
-| **:1234: SHA256** | 5 | 18 | 222 | 4294 |
-| **:1234: MD5** | 15 | 52 | 332 | 10387 |
+| **:link: URLs** | 0 | 347 | 5172 | 147935 |
+| **:globe_with_meridians: Domains** | 0 | 28 | 366 | 29443 |
+| **:triangular_flag_on_post: IPs** | 0 | 300 | 3319 | 46300 |
+| **:1234: SHA256** | 0 | 13 | 222 | 4285 |
+| **:1234: MD5** | 0 | 46 | 329 | 10383 |
 
 </div>
 
@@ -123,38 +123,38 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 161 | 536 | 5295 | 154467 |
-| **#scam** | 47 | 104 | 925 | 43487 |
-| **#malware** | 4 | 21 | 433 | 41817 |
+| **#phishing** | 0 | 350 | 5055 | 153545 |
+| **#scam** | 0 | 60 | 819 | 42913 |
+| **#malware** | 0 | 21 | 317 | 41797 |
 | **#maldoc** | 0 | 0 | 8 | 180 |
-| **#ransomware** | 0 | 4 | 17 | 1546 |
+| **#ransomware** | 0 | 4 | 17 | 1545 |
 | **#banker** | 0 | 0 | 0 | 66 |
 | **#AgentTesla** | 0 | 0 | 11 | 359 |
 | **#Alienbot** | 0 | 0 | 0 | 10 |
 | **#AsyncRAT** | 0 | 0 | 13 | 88 |
 | **#Batloader** | 0 | 0 | 0 | 7 |
 | **#BazarLoader** | 0 | 0 | 0 | 7 |
-| **#CobaltStrike** | 24 | 254 | 2414 | 21276 |
-| **#Dcrat** | 0 | 9 | 36 | 147 |
+| **#CobaltStrike** | 0 | 201 | 2325 | 21252 |
+| **#Dcrat** | 0 | 5 | 36 | 147 |
 | **#Emotet** | 0 | 0 | 0 | 270 |
-| **#Follina** | 0 | 0 | 0 | 45 |
+| **#Follina** | 0 | 0 | 0 | 40 |
 | **#Formbook** | 0 | 0 | 3 | 277 |
-| **#GootLoader** | 1 | 2 | 17 | 182 |
-| **#GuLoader** | 0 | 0 | 2 | 107 |
-| **#IcedID** | 3 | 3 | 39 | 510 |
+| **#GootLoader** | 0 | 2 | 17 | 182 |
+| **#GuLoader** | 0 | 0 | 2 | 106 |
+| **#IcedID** | 0 | 3 | 39 | 510 |
 | **#Lazarus** | 0 | 0 | 6 | 180 |
-| **#Lokibot** | 0 | 2 | 3 | 235 |
+| **#Lokibot** | 0 | 2 | 3 | 230 |
 | **#log4j** | 0 | 0 | 0 | 26 |
 | **#Log4shell** | 0 | 0 | 0 | 9 |
-| **#Njrat** | 1 | 3 | 67 | 327 |
-| **#Qakbot** | 0 | 34 | 364 | 1276 |
+| **#Njrat** | 0 | 3 | 67 | 327 |
+| **#Qakbot** | 0 | 23 | 357 | 1276 |
 | **#Raccoon** | 0 | 0 | 1 | 185 |
-| **#RedLine** | 2 | 8 | 48 | 580 |
-| **#Remcos** | 2 | 8 | 44 | 386 |
+| **#RedLine** | 0 | 8 | 41 | 580 |
+| **#Remcos** | 0 | 8 | 44 | 386 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 23 |
 | **#Spring4Shell** | 0 | 0 | 0 | 2 |
 | **#SocGolish** | 0 | 0 | 0 | 7 |
-| **#Ursnif** | 0 | 0 | 15 | 314 |
+| **#Ursnif** | 0 | 0 | 8 | 314 |
 
 </div>
 
@@ -166,16 +166,16 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [noladefense](https://twitter.com/noladefense) | 50 |
-| **#2** | [pingineer_jp](https://twitter.com/pingineer_jp) | 46 |
-| **#3** | [romonlyht](https://twitter.com/romonlyht) | 34 |
-| **#4** | [drb_ra](https://twitter.com/drb_ra) | 24 |
-| **#5** | [1ZRR4H](https://twitter.com/1ZRR4H) | 9 |
-| **#6** | [JAMESWT_MHT](https://twitter.com/JAMESWT_MHT) | 6 |
-| **#7** | [tdatwja](https://twitter.com/tdatwja) | 5 |
-| **#8** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 5 |
-| **#9** | [h2jazi](https://twitter.com/h2jazi) | 4 |
-| **#10** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 4 |
+| **#1** | [-](https://twitter.com/-) | 0 |
+| **#2** | [-](https://twitter.com/-) | 0 |
+| **#3** | [-](https://twitter.com/-) | 0 |
+| **#4** | [-](https://twitter.com/-) | 0 |
+| **#5** | [-](https://twitter.com/-) | 0 |
+| **#6** | [-](https://twitter.com/-) | 0 |
+| **#7** | [-](https://twitter.com/-) | 0 |
+| **#8** | [-](https://twitter.com/-) | 0 |
+| **#9** | [-](https://twitter.com/-) | 0 |
+| **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>
 
