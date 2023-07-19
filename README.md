@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2023-07-19 12:45:19 (UTC)</th>
+        <th colspan=4>2023-07-19 13:03:27 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 2 | 349 | 5174 | 147937 |
+| **:link: URLs** | 4 | 351 | 5176 | 147939 |
 | **:globe_with_meridians: Domains** | 1 | 29 | 367 | 29444 |
-| **:triangular_flag_on_post: IPs** | 1 | 301 | 3320 | 46301 |
+| **:triangular_flag_on_post: IPs** | 5 | 305 | 3324 | 46305 |
 | **:1234: SHA256** | 7 | 20 | 229 | 4292 |
 | **:1234: MD5** | 1 | 47 | 330 | 10384 |
 
@@ -134,7 +134,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 0 | 0 | 13 | 88 |
 | **#Batloader** | 0 | 0 | 0 | 7 |
 | **#BazarLoader** | 0 | 0 | 0 | 7 |
-| **#CobaltStrike** | 2 | 203 | 2327 | 21254 |
+| **#CobaltStrike** | 8 | 209 | 2333 | 21260 |
 | **#Dcrat** | 0 | 5 | 36 | 147 |
 | **#Emotet** | 0 | 0 | 0 | 270 |
 | **#Follina** | 0 | 0 | 0 | 40 |
