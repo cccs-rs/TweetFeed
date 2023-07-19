@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2023-07-19 07:10:36 (UTC)</th>
+        <th colspan=4>2023-07-19 11:00:45 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 0 | 347 | 5172 | 147935 |
-| **:globe_with_meridians: Domains** | 0 | 28 | 366 | 29443 |
-| **:triangular_flag_on_post: IPs** | 0 | 300 | 3319 | 46300 |
-| **:1234: SHA256** | 0 | 13 | 222 | 4285 |
+| **:link: URLs** | 1 | 348 | 5173 | 147936 |
+| **:globe_with_meridians: Domains** | 2 | 30 | 368 | 29445 |
+| **:triangular_flag_on_post: IPs** | 1 | 301 | 3320 | 46301 |
+| **:1234: SHA256** | 4 | 17 | 226 | 4289 |
 | **:1234: MD5** | 0 | 46 | 329 | 10383 |
 
 </div>
@@ -134,7 +134,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 0 | 0 | 13 | 88 |
 | **#Batloader** | 0 | 0 | 0 | 7 |
 | **#BazarLoader** | 0 | 0 | 0 | 7 |
-| **#CobaltStrike** | 0 | 201 | 2325 | 21252 |
+| **#CobaltStrike** | 2 | 203 | 2327 | 21254 |
 | **#Dcrat** | 0 | 5 | 36 | 147 |
 | **#Emotet** | 0 | 0 | 0 | 270 |
 | **#Follina** | 0 | 0 | 0 | 40 |
@@ -166,9 +166,9 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [-](https://twitter.com/-) | 0 |
-| **#2** | [-](https://twitter.com/-) | 0 |
-| **#3** | [-](https://twitter.com/-) | 0 |
+| **#1** | [Response(data=<User id=2847021941 name=MalwareHunterTeam username=malwrhunterteam>, includes={}, errors=[], meta={})](https://twitter.com/Response(data=<User id=2847021941 name=MalwareHunterTeam username=malwrhunterteam>, includes={}, errors=[], meta={})) | 5 |
+| **#2** | [Response(data=<User id=1431575761325023235 name=C2IntelFeedsBot username=drb_ra>, includes={}, errors=[], meta={})](https://twitter.com/Response(data=<User id=1431575761325023235 name=C2IntelFeedsBot username=drb_ra>, includes={}, errors=[], meta={})) | 2 |
+| **#3** | [Response(data=<User id=29199860 name=Joe Roosen username=JRoosen>, includes={}, errors=[], meta={})](https://twitter.com/Response(data=<User id=29199860 name=Joe Roosen username=JRoosen>, includes={}, errors=[], meta={})) | 1 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [-](https://twitter.com/-) | 0 |
