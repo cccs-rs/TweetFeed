@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2023-07-19 13:30:19 (UTC)</th>
+        <th colspan=4>2023-07-19 13:40:34 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,7 +107,7 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 5 | 352 | 5177 | 147940 |
+| **:link: URLs** | 7 | 354 | 5179 | 147942 |
 | **:globe_with_meridians: Domains** | 1 | 29 | 367 | 29444 |
 | **:triangular_flag_on_post: IPs** | 5 | 305 | 3324 | 46305 |
 | **:1234: SHA256** | 7 | 20 | 229 | 4292 |
@@ -123,9 +123,9 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 1 | 351 | 5056 | 153546 |
-| **#scam** | 1 | 61 | 820 | 42914 |
-| **#malware** | 0 | 21 | 317 | 41797 |
+| **#phishing** | 3 | 353 | 5058 | 153548 |
+| **#scam** | 3 | 63 | 822 | 42916 |
+| **#malware** | 1 | 22 | 318 | 41798 |
 | **#maldoc** | 0 | 0 | 8 | 180 |
 | **#ransomware** | 0 | 4 | 17 | 1545 |
 | **#banker** | 0 | 0 | 0 | 66 |
@@ -169,8 +169,8 @@ If you like the project, please consider:
 | **#1** | [Response(data=<User id=2847021941 name=MalwareHunterTeam username=malwrhunterteam>, includes={}, errors=[], meta={})](https://twitter.com/Response(data=<User id=2847021941 name=MalwareHunterTeam username=malwrhunterteam>, includes={}, errors=[], meta={})) | 5 |
 | **#2** | [Response(data=<User id=1431575761325023235 name=C2IntelFeedsBot username=drb_ra>, includes={}, errors=[], meta={})](https://twitter.com/Response(data=<User id=1431575761325023235 name=C2IntelFeedsBot username=drb_ra>, includes={}, errors=[], meta={})) | 2 |
 | **#3** | [Response(data=<User id=29199860 name=Joe Roosen username=JRoosen>, includes={}, errors=[], meta={})](https://twitter.com/Response(data=<User id=29199860 name=Joe Roosen username=JRoosen>, includes={}, errors=[], meta={})) | 1 |
-| **#4** | [shotgunner101](https://twitter.com/shotgunner101) | 1 |
-| **#5** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 1 |
+| **#4** | [JRoosen](https://twitter.com/JRoosen) | 1 |
+| **#5** | [shotgunner101](https://twitter.com/shotgunner101) | 1 |
 | **#6** | [-](https://twitter.com/-) | 0 |
 | **#7** | [-](https://twitter.com/-) | 0 |
 | **#8** | [-](https://twitter.com/-) | 0 |
